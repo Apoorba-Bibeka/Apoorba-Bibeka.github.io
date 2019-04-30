@@ -28,7 +28,7 @@ navbar-links:
     - Publications: "https://scholar.google.com/citations?user=J6JMTboAAAAJ&hl=en&oi=ao"
     - GitHub: "https://github.com/Apoorba-Bibeka?tab=repositories/"
   Resume:
-    - Transportation Resume: "https://github.com/Apoorba-Bibeka/Apoorba-Bibeka.github.io/raw/master/Apoorba-Resume-T.pdf"
+    - Transportation Resume: <embed src="https://github.com/Apoorba-Bibeka/Apoorba-Bibeka.github.io/raw/master/Apoorba-Resume-T.pdf" type="application/pdf" />
     - Data Science Resume: "https://github.com/Apoorba-Bibeka/Apoorba-Bibeka.github.io/blob/master/Apoorba-Resume.pdf"
   Blog: "blogAB"
 

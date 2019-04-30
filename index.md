@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apoorba Bibeka (Apoorb)
+title: Apoorba Bibeka
 subtitle: Graduate Student, Texas A&M University
 use-site-title: true
 ---

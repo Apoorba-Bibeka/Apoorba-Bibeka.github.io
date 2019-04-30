@@ -27,6 +27,9 @@ navbar-links:
   Resources:
     - Publications: "https://scholar.google.com/citations?user=J6JMTboAAAAJ&hl=en&oi=ao"
     - GitHub: "https://github.com/Apoorba-Bibeka?tab=repositories/"
+  Resume:
+    -Transportation Resume: "/Apoorba-T-Resume.pdf"
+    -Data Science Resume: "/Apoorba-Resume.pdf"
   Blog: "blogAB"
 
 # Image to show in the navigation bar - image must be a square (width = height)

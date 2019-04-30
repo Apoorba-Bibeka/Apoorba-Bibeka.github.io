@@ -5,7 +5,7 @@ subtitle: Graduate Student, Texas A&M University
 use-site-title: true
 ---
 
-# Let's get started!
+# News
 
 <div class="posts-list">
   {% for post in paginator.posts %}
